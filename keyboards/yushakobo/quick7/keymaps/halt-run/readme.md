@@ -1,25 +1,13 @@
-# The default keymap for quick7
+# The Halt Run keymap for quick7
 
 ### Base Layer
 ```
-Left Encoder(CW: Vol+, CCW: Vol-)
-Right Encoder(CW: RGB HUE-, CCW: RGB HUE+)
+Right Encoder(CW: Vol+, CCW: Vol-)
 ,----------- --------- ------------,
-|   MUTE    |  Func1  |  RGB MODE  |
+|  Alt+Tab  |  Mute   |  VOL +/-   |
  ----------- --------- ------------
-| Shift+Tab |   UP    |    TAB     |
+| PrevTrack |Play/Paus| NextTrack  |
  ----------- --------- ------------
-|   LEFT    |  DOWN   |   RIGHT    |
-`----------- --------- ------------'
-```
-
-### Func1 Layer
-```
-,----------- --------- ------------,
-|   RESET   |  Func1  | RGB TOGGLE |
- ----------- --------- ------------
-|   HOME    |  VOL+   |    END     |
- ----------- --------- ------------
-| MEDIA <<  |  VOL-   |  MEDIA >>  |
+| Previous  |  Stop   |   Next     |
 `----------- --------- ------------'
 ```
