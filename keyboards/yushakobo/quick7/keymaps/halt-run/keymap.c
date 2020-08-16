@@ -29,7 +29,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     )
 };
 
-/* Please note that the original keymap has support for 2 encoiders,
+/* Please note that the original keymap has support for 2 encoders,
 but in this one we are only using the second one. You can still access
 encoder 0 by adding the appropriate condition below.*/
 void encoder_update_user(uint8_t index, bool clockwise) {
